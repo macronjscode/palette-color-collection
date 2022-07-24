@@ -1,0 +1,1332 @@
+/*
++CREATOR : MARCO GIUSEPPE STARACE
++VERSION : V.1-0
++LANG : CSS
++DESCRIPTION : PALETTE COLOR COLLECTION
+////////////////////////////////////////////////////
+                (INSTRUCTIONS)
++USE FOR BACKGROUND COLOR :  
+      WITHOUT IMPORTANT 
+      (!EXAMPLE! <div class="b-emerald"></div>)
+
+      WITH IMPORTANT :
+      (!EXAMPLE! <div class="b-emerald--i"></div>)
++USE FOR TEXT COLOR :
+      WITHOUT IMPORTANT 
+      (!EXAMPLE! <div class="t-emerald"></div>)
+
+      WITH IMPORTANT :
+      (!EXAMPLE! <div class="t-emerald--i"></div>)
+                (END INSTRUCTIONS)
+////////////////////////////////////////////////////////
+
+
+/* START FLAT UI PALETTE V1 - BACKGROUND*/
+
+/*WITHOUT IMPORTANT*/
+
+/*TURQUOISE*/
+.b-turquoise{background-color: #1abc9c;}
+/*EMERALD*/
+.b-emerald{background-color: #2ecc71;}
+/*PETER RIVER*/
+.b-peter-river{background-color: #3498db;}
+/*AMETHYST*/
+.b-amethyst{background-color: #9b59b6;}
+/*WET ASPHALT*/
+.b-wet-asphalt{background-color: #34495e;}
+/*GREEN SEA*/
+.b-green-sea{background-color: #16a085;}
+/*NEPHRITIS*/
+.b-nephritis{background-color: #27ae60;}
+/*BELIZE HOLE*/
+.b-belize-hole{background-color: #2980b9;}
+/*WISTERIA*/
+.b-wisteria{background-color: #8e44ad;}
+/*MIDNIGHT BLUE*/
+.b-midnight-blue{background-color: #2c3e50;}
+/*SUN-FLOWER*/
+.b-sun-flower{background-color: #f1c40f;}
+/*CARROT*/
+.b-carrot{background-color: #e67e22;}
+/*ALIZARIN*/
+.b-alizarin{background-color: #e74c3c;}
+/*CONCRETE*/
+.b-concrete{background-color: #95a5a6;}
+/*ORANGE*/
+.b-orange{background-color: #f39c12;}
+/*PUMPKIN*/
+.b-pumpkin{background-color: #d35400;}
+/*POMEGRANATE*/
+.b-pomegranate{background-color: #c0392b;}
+/*SILVER*/
+.b-silver{background-color: #bdc3c7;}
+/*ASBESTOS*/
+.b-asbestos{background-color: #7f8c8d;}
+
+/*WITH IMPORTANT*/
+
+/*TURQUOISE*/
+.b-turquoise--i{background-color: #1abc9c !important;}
+/*EMERALD*/
+.b-emerald--i{background-color: #2ecc71 !important;}
+/*PETER RIVER*/
+.b-peter-river--i{background-color: #3498db !important;}
+/*AMETHYST*/
+.b-amethyst--i{background-color: #9b59b6 !important;}
+/*WET ASPHALT*/
+.b-wet-asphalt--i{background-color: #34495e !important;}
+/*GREEN SEA*/
+.b-green-sea--i{background-color: #16a085 !important;}
+/*NEPHRITIS*/
+.b-nephritis--i{background-color: #27ae60 !important;}
+/*BELIZE HOLE*/
+.b-belize-hole--i{background-color: #2980b9 !important;}
+/*WISTERIA*/
+.b-wisteria--i{background-color: #8e44ad !important;}
+/*MIDNIGHT BLUE*/
+.b-midnight-blue--i{background-color: #2c3e50 !important;}
+/*SUN-FLOWER*/
+.b-sun-flower--i{background-color: #f1c40f !important;}
+/*CARROT*/
+.b-carrot--i{background-color: #e67e22 !important;}
+/*ALIZARIN*/
+.b-alizarin--i{background-color: #e74c3c !important;}
+/*CONCRETE*/
+.b-concrete--i{background-color: #95a5a6 !important;}
+/*ORANGE*/
+.b-orange--i{background-color: #f39c12 !important;}
+/*PUMPKIN*/
+.b-pumpkin--i{background-color: #d35400 !important;}
+/*POMEGRANATE*/
+.b-pomegranate--i{background-color: #c0392b !important;}
+/*SILVER*/
+.b-silver--i{background-color: #bdc3c7 !important;}
+/*ASBESTOS*/
+.b-asbestos--i{background-color: #7f8c8d !important;}
+
+/* END FLAT UI PALETTE V1 - BACKGROUND*/
+
+/* START FLAT UI PALETTE V1 - TEXT COLOR*/
+
+/*WITHOUT IMPORTANT*/
+
+/*TURQUOISE*/
+.t-turquoise{color: #1abc9c;}
+/*EMERALD*/
+.t-emerald{color: #2ecc71;}
+/*PETER RIVER*/
+.t-peter-river{color: #3498db;}
+/*AMETHYST*/
+.t-amethyst{color: #9b59b6;}
+/*WET ASPHALT*/
+.t-wet-asphalt{color: #34495e;}
+/*GREEN SEA*/
+.t-green-sea{color: #16a085;}
+/*NEPHRITIS*/
+.t-nephritis{color: #27ae60;}
+/*BELIZE HOLE*/
+.t-belize-hole{color: #2980b9;}
+/*WISTERIA*/
+.t-wisteria{color: #8e44ad;}
+/*MIDNIGHT BLUE*/
+.t-midnight-blue{color: #2c3e50;}
+/*SUN-FLOWER*/
+.t-sun-flower{color: #f1c40f;}
+/*CARROT*/
+.t-carrot{color: #e67e22;}
+/*ALIZARIN*/
+.t-alizarin{color: #e74c3c;}
+/*CONCRETE*/
+.t-concrete{color: #95a5a6;}
+/*ORANGE*/
+.t-orange{color: #f39c12;}
+/*PUMPKIN*/
+.t-pumpkin{color: #d35400;}
+/*POMEGRANATE*/
+.t-pomegranate{color: #c0392b;}
+/*SILVER*/
+.t-silver{color: #bdc3c7;}
+/*ASBESTOS*/
+.t-asbestos{color: #7f8c8d;}
+
+/*WITH IMPORTANT*/
+
+/*TURQUOISE*/
+.t-turquoise--i{color: #1abc9c !important;}
+/*EMERALD*/
+.t-emerald--i{color: #2ecc71 !important;}
+/*PETER RIVER*/
+.t-peter-river--i{color: #3498db !important;}
+/*AMETHYST*/
+.t-amethyst--i{color: #9b59b6 !important;}
+/*WET ASPHALT*/
+.t-wet-asphalt--i{color: #34495e !important;}
+/*GREEN SEA*/
+.t-green-sea--i{color: #16a085 !important;}
+/*NEPHRITIS*/
+.t-nephritis--i{color: #27ae60 !important;}
+/*BELIZE HOLE*/
+.t-belize-hole--i{color: #2980b9 !important;}
+/*WISTERIA*/
+.t-wisteria--i{color: #8e44ad !important;}
+/*MIDNIGHT BLUE*/
+.t-midnight-blue--i{color: #2c3e50 !important;}
+/*SUN-FLOWER*/
+.t-sun-flower--i{color: #f1c40f !important;}
+/*CARROT*/
+.t-carrot--i{color: #e67e22 !important;}
+/*ALIZARIN*/
+.t-alizarin--i{color: #e74c3c !important;}
+/*CONCRETE*/
+.t-concrete--i{color: #95a5a6 !important;}
+/*ORANGE*/
+.t-orange--i{color: #f39c12 !important;}
+/*PUMPKIN*/
+.t-pumpkin--i{color: #d35400 !important;}
+/*POMEGRANATE*/
+.t-pomegranate--i{color: #c0392b !important;}
+/*SILVER*/
+.t-silver--i{color: #bdc3c7 !important;}
+/*ASBESTOS*/
+.t-asbestos--i{color: #7f8c8d !important;}
+
+/* END FLAT UI PALETTE V1 - TEXT COLOR*/
+
+/* START AMERICAN PALETTE - BACKGROUND*/
+
+/*WITHOUT IMPORTANT*/
+
+/*LIGHT GREENISH BLUE*/
+.b-light-greenish-blue{background-color: #55efc4;}
+/*FADED POSTER*/
+.b-faded-poster{background-color: #81ecec;}
+/*GREEN DARNER TAIL*/
+.b-green-darner-tail{background-color: #74b9ff;}
+/*SHY MOMENT*/
+.b-shy-moment{background-color: #a29bfe;}
+/*CITY LIGHTS*/
+.b-city-lights{background-color: #dfe6e9;}
+/*MINT LEAF*/
+.b-mint-leaf{background-color: #00b894;}
+/*ROBIN'S EGG BLUE*/
+.b-robins-egg-blue{background-color: #00cec9;}
+/*ELECTRON BLUE*/
+.b-electron-blue{background-color: #0984e3;}
+/*EXODUS FRUIT*/
+.b-exodus-fruit{background-color: #6c5ce7;}
+/*SOOTHING BREEZE*/
+.b-soothing-breeze{background-color: #b2bec3;}
+/*SOUR LEMON*/
+.b-sour-lemon{background-color: #ffeaa7;}
+/*FIRST DATE*/
+.b-first-date{background-color: #fab1a0;}
+/*PINK GLAMOUR*/
+.b-pink-glamour{background-color: #ff7675;}
+/*PICO-8 PINK*/
+.b-pico-8-pink{background-color: #fd79a8;}
+/*AMERICAN RIVER*/
+.b-american-river{background-color: #636e72;}
+/*BRIGHT YARROW*/
+.b-bright-yarrow{background-color: #fdcb6e;}
+/*ORANGEVILLE*/
+.b-orangeville{background-color: #e17055;}
+/*CHI-GONG*/
+.b-chi-gong{background-color: #d63031;}
+/*PRUNUS AVIUM*/
+.b-prunus-avium{background-color: #e84393;}
+/*DRACULA ORCHID*/
+.b-dracula-orchid{background-color: #2d3436;}
+
+
+/*WITH IMPORTANT*/
+
+/*LIGHT GREENISH BLUE*/
+.b-light-greenish-blue--i{background-color: #55efc4 !important;}
+/*FADED POSTER*/
+.b-faded-poster--i{background-color: #81ecec !important;}
+/*GREEN DARNER TAIL*/
+.b-green-darner-tail--i{background-color: #74b9ff !important;}
+/*SHY MOMENT*/
+.b-shy-moment--i{background-color: #a29bfe !important;}
+/*CITY LIGHTS*/
+.b-city-lights--i{background-color: #dfe6e9 !important;}
+/*MINT LEAF*/
+.b-mint-leaf--i{background-color: #00b894 !important;}
+/*ROBIN'S EGG BLUE*/
+.b-robins-egg-blue--i{background-color: #00cec9 !important;}
+/*ELECTRON BLUE*/
+.b-electron-blue--i{background-color: #0984e3 !important;}
+/*EXODUS FRUIT*/
+.b-exodus-fruit--i{background-color: #6c5ce7 !important;}
+/*SOOTHING BREEZE*/
+.b-soothing-breeze--i{background-color: #b2bec3 !important;}
+/*SOUR LEMON*/
+.b-sour-lemon--i{background-color: #ffeaa7 !important;}
+/*FIRST DATE*/
+.b-first-date--i{background-color: #fab1a0 !important;}
+/*PINK GLAMOUR*/
+.b-pink-glamour--i{background-color: #ff7675 !important;}
+/*PICO-8 PINK*/
+.b-pico-8-pink--i{background-color: #fd79a8 !important;}
+/*AMERICAN RIVER*/
+.b-american-river--i{background-color: #636e72 !important;}
+/*BRIGHT YARROW*/
+.b-bright-yarrow--i{background-color: #fdcb6e !important;}
+/*ORANGEVILLE*/
+.b-orangeville--i{background-color: #e17055 !important;}
+/*CHI-GONG*/
+.b-chi-gong--i{background-color: #d63031 !important;}
+/*PRUNUS AVIUM*/
+.b-prunus-avium--i{background-color: #e84393 !important;}
+/*DRACULA ORCHID*/
+.b-dracula-orchid--i{background-color: #2d3436 !important;}
+
+/* END AMERICAN PALETTE - BACKGROUND*/
+
+/* START AMERICAN PALETTE - TEXT COLOR*/
+
+/*LIGHT GREENISH BLUE*/
+.t-light-greenish-blue{color: #55efc4;}
+/*FADED POSTER*/
+.t-faded-poster{color: #81ecec;}
+/*GREEN DARNER TAIL*/
+.t-green-darner-tail{color: #74b9ff;}
+/*SHY MOMENT*/
+.t-shy-moment{color: #a29bfe;}
+/*CITY LIGHTS*/
+.t-city-lights{color: #dfe6e9;}
+/*MINT LEAF*/
+.t-mint-leaf{color: #00b894;}
+/*ROBIN'S EGG BLUE*/
+.t-robins-egg-blue{color: #00cec9;}
+/*ELECTRON BLUE*/
+.t-electron-blue{color: #0984e3;}
+/*EXODUS FRUIT*/
+.t-exodus-fruit{color: #6c5ce7;}
+/*SOOTHING BREEZE*/
+.t-soothing-breeze{color: #b2bec3;}
+/*SOUR LEMON*/
+.t-sour-lemon{color: #ffeaa7;}
+/*FIRST DATE*/
+.t-first-date{color: #fab1a0;}
+/*PINK GLAMOUR*/
+.t-pink-glamour{color: #ff7675;}
+/*PICO-8 PINK*/
+.t-pico-8-pink{color: #fd79a8;}
+/*AMERICAN RIVER*/
+.t-american-river{color: #636e72;}
+/*BRIGHT YARROW*/
+.t-bright-yarrow{color: #fdcb6e;}
+/*ORANGEVILLE*/
+.t-orangeville{color: #e17055;}
+/*CHI-GONG*/
+.t-chi-gong{color: #d63031;}
+/*PRUNUS AVIUM*/
+.t-prunus-avium{color: #e84393;}
+/*DRACULA ORCHID*/
+.t-dracula-orchid{color: #2d3436;}
+
+
+/*WITH IMPORTANT*/
+
+/*LIGHT GREENISH BLUE*/
+.t-light-greenish-blue{color: #55efc4;}
+/*FADED POSTER*/
+.t-faded-poster{color: #81ecec;}
+/*GREEN DARNER TAIL*/
+.t-green-darner-tail{color: #74b9ff;}
+/*SHY MOMENT*/
+.t-shy-moment{color: #a29bfe;}
+/*CITY LIGHTS*/
+.t-city-lights{color: #dfe6e9;}
+/*MINT LEAF*/
+.t-mint-leaf{color: #00b894;}
+/*ROBIN'S EGG BLUE*/
+.t-robins-egg-blue{color: #00cec9;}
+/*ELECTRON BLUE*/
+.t-electron-blue{color: #0984e3;}
+/*EXODUS FRUIT*/
+.t-exodus-fruit{color: #6c5ce7;}
+/*SOOTHING BREEZE*/
+.t-soothing-breeze{color: #b2bec3;}
+/*SOUR LEMON*/
+.t-sour-lemon{color: #ffeaa7;}
+/*FIRST DATE*/
+.t-first-date{color: #fab1a0;}
+/*PINK GLAMOUR*/
+.t-pink-glamour{color: #ff7675;}
+/*PICO-8 PINK*/
+.t-pico-8-pink{color: #fd79a8;}
+/*AMERICAN RIVER*/
+.t-american-river{color: #636e72;}
+/*BRIGHT YARROW*/
+.t-bright-yarrow{color: #fdcb6e;}
+/*ORANGEVILLE*/
+.t-orangeville{color: #e17055;}
+/*CHI-GONG*/
+.t-chi-gong{color: #d63031;}
+/*PRUNUS AVIUM*/
+.t-prunus-avium{color: #e84393;}
+/*DRACULA ORCHID*/
+.t-dracula-orchid{color: #2d3436;}
+
+/* END AMERICAN PALETTE - TEXT COLOR*/
+
+/* START AUSSIE PALETTE - BACKGROUND*/
+
+/*WITHOUT IMPORTANT*/
+
+/*BEEKEEPER*/
+.b-beekeeper{background-color: #f6e58d;}
+/*SPICED NECTARINE*/
+.b-spiced-nectarine{background-color: #ffbe76;}
+/*PINK GLAMOUR*/
+.b-pink-glamour{background-color: #ff7979;}
+/*JUNE BUD*/
+.b-june-bud{background-color: #badc58;}
+/*COASTAL BREEZE*/
+.b-coastal-breeze{background-color: #dff9fb;}
+/*TURBO*/
+.b-turbo{background-color: #f9ca24;}
+/*QUINCE JELLY*/
+.b-quince-jelly{background-color: #f0932b;}
+/*CARMINE PINK*/
+.b-carmine-pink{background-color: #eb4d4b;}
+/*PURE APPLE*/
+.b-pure-apple{background-color: #6ab04c;}
+/*HINT OF ICE PACK*/
+.b-hint-of-ice-pack{background-color: #c7ecee;}
+/*MIDDLE BLUE*/
+.b-middle-blue{background-color: #7ed6df;}
+/*HELIOTROPE*/
+.b-heliotrope{background-color: #e056fd;}
+/*EXODUS FRUIT*/
+.b-exodus-fruit{background-color: #686de0;}
+/*DEEP KOAMARU*/
+.b-deep-koamaru{background-color: #30336b;}
+/*SOARING EAGLE*/
+.b-soaring-eagle{background-color: #95afc0;}
+/*GREENLAND GREEN*/
+.b-greenland-green{background-color: #22a6b3;}
+/*STEEL PINK*/
+.b-steel-pink{background-color: #be2edd;}
+/*BLURPLE*/
+.b-blurple{background-color: #4834d4;}
+/*DEEP COVE*/
+.b-deep-cove{background-color: #130f40;}
+/*WIZARD GREY*/
+.b-wizard-grey{background-color: #535c68;}
+
+
+/*WITH IMPORTANT*/
+
+/*BEEKEEPER*/
+.b-beekeeper--i{background-color: #f6e58d !important;}
+/*SPICED NECTARINE*/
+.b-spiced-nectarine--i{background-color: #ffbe76 !important;}
+/*PINK GLAMOUR*/
+.b-pink-glamour--i{background-color: #ff7979 !important;}
+/*JUNE BUD*/
+.b-june-bud--i{background-color: #badc58 !important;}
+/*COASTAL BREEZE*/
+.b-coastal-breeze--i{background-color: #dff9fb !important;}
+/*TURBO*/
+.b-turbo--i{background-color: #f9ca24 !important;}
+/*QUINCE JELLY*/
+.b-quince-jelly--i{background-color: #f0932b !important;}
+/*CARMINE PINK*/
+.b-carmine-pink--i{background-color: #eb4d4b !important;}
+/*PURE APPLE*/
+.b-pure-apple--i{background-color: #6ab04c !important;}
+/*HINT OF ICE PACK*/
+.b-hint-of-ice-pack--i{background-color: #c7ecee !important;}
+/*MIDDLE BLUE*/
+.b-middle-blue--i{background-color: #7ed6df !important;}
+/*HELIOTROPE*/
+.b-heliotrope--i{background-color: #e056fd !important;}
+/*EXODUS FRUIT*/
+.b-exodus-fruit--i{background-color: #686de0 !important;}
+/*DEEP KOAMARU*/
+.b-deep-koamaru--i{background-color: #30336b !important;}
+/*SOARING EAGLE*/
+.b-soaring-eagle--i{background-color: #95afc0 !important;}
+/*GREENLAND GREEN*/
+.b-greenland-green--i{background-color: #22a6b3 !important;}
+/*STEEL PINK*/
+.b-steel-pink--i{background-color: #be2edd !important;}
+/*BLURPLE*/
+.b-blurple--i{background-color: #4834d4 !important;}
+/*DEEP COVE*/
+.b-deep-cove--i{background-color: #130f40 !important;}
+/*WIZARD GREY*/
+.b-wizard-grey--i{background-color: #535c68 !important;}
+
+/* END AUSSIE PALETTE - BACKGROUND*/
+
+/* START AUSSIE PALETTE - TEXT COLOR*/
+
+/*WITHOUT IMPORTANT*/
+
+/*BEEKEEPER*/
+.t-beekeeper{color: #f6e58d;}
+/*SPICED NECTARINE*/
+.t-spiced-nectarine{color: #ffbe76;}
+/*PINK GLAMOUR*/
+.t-pink-glamour{color: #ff7979;}
+/*JUNE BUD*/
+.t-june-bud{color: #badc58;}
+/*COASTAL BREEZE*/
+.t-coastal-breeze{color: #dff9fb;}
+/*TURBO*/
+.t-turbo{color: #f9ca24;}
+/*QUINCE JELLY*/
+.t-quince-jelly{color: #f0932b;}
+/*CARMINE PINK*/
+.t-carmine-pink{color: #eb4d4b;}
+/*PURE APPLE*/
+.t-pure-apple{color: #6ab04c;}
+/*HINT OF ICE PACK*/
+.t-hint-of-ice-pack{color: #c7ecee;}
+/*MIDDLE BLUE*/
+.t-middle-blue{color: #7ed6df;}
+/*HELIOTROPE*/
+.t-heliotrope{color: #e056fd;}
+/*EXODUS FRUIT*/
+.t-exodus-fruit{color: #686de0;}
+/*DEEP KOAMARU*/
+.t-deep-koamaru{color: #30336b;}
+/*SOARING EAGLE*/
+.t-soaring-eagle{color: #95afc0;}
+/*GREENLAND GREEN*/
+.t-greenland-green{color: #22a6b3;}
+/*STEEL PINK*/
+.t-steel-pink{color: #be2edd;}
+/*BLURPLE*/
+.t-blurple{color: #4834d4;}
+/*DEEP COVE*/
+.t-deep-cove{color: #130f40;}
+/*WIZARD GREY*/
+.t-wizard-grey{color: #535c68;}
+
+
+/*WITH IMPORTANT*/
+
+/*BEEKEEPER*/
+.t-beekeeper--i{color: #f6e58d !important;}
+/*SPICED NECTARINE*/
+.t-spiced-nectarine--i{color: #ffbe76 !important;}
+/*PINK GLAMOUR*/
+.t-pink-glamour--i{color: #ff7979 !important;}
+/*JUNE BUD*/
+.t-june-bud--i{color: #badc58 !important;}
+/*COASTAL BREEZE*/
+.t-coastal-breeze--i{color: #dff9fb !important;}
+/*TURBO*/
+.t-turbo--i{color: #f9ca24 !important;}
+/*QUINCE JELLY*/
+.t-quince-jelly--i{color: #f0932b !important;}
+/*CARMINE PINK*/
+.t-carmine-pink--i{color: #eb4d4b !important;}
+/*PURE APPLE*/
+.t-pure-apple--i{color: #6ab04c !important;}
+/*HINT OF ICE PACK*/
+.t-hint-of-ice-pack--i{color: #c7ecee !important;}
+/*MIDDLE BLUE*/
+.t-middle-blue--i{color: #7ed6df !important;}
+/*HELIOTROPE*/
+.t-heliotrope--i{color: #e056fd !important;}
+/*EXODUS FRUIT*/
+.t-exodus-fruit--i{color: #686de0 !important;}
+/*DEEP KOAMARU*/
+.t-deep-koamaru--i{color: #30336b !important;}
+/*SOARING EAGLE*/
+.t-soaring-eagle--i{color: #95afc0 !important;}
+/*GREENLAND GREEN*/
+.t-greenland-green--i{color: #22a6b3 !important;}
+/*STEEL PINK*/
+.t-steel-pink--i{color: #be2edd !important;}
+/*BLURPLE*/
+.t-blurple--i{color: #4834d4 !important;}
+/*DEEP COVE*/
+.t-deep-cove--i{color: #130f40 !important;}
+/*WIZARD GREY*/
+.t-wizard-grey--i{color: #535c68 !important;}
+
+/* END AUSSIE PALETTE - TEXT COLOR*/
+
+/* START BRITISH PALETTE - BACKGROUND */
+
+/*WITHOUT IMPORTANT*/
+
+/*PROTOSS PYLON*/
+.b-protoss-pylon{background-color: #00a8ff;}
+/*PERIWINKLE*/
+.b-periwinkle{background-color: #9c88ff;}
+/*RISE N SHINE*/
+.b-rise-n-shine{background-color: #fbc531;}
+/*DOWNLOAD PROGRESS*/
+.b-download-progress{background-color: #4cd137;}
+/*SEABROOK*/
+.b-seabrook{background-color: #487eb0;}
+/*VANADYL BLUE*/
+.b-vanadyl-blue{background-color: #0097e6;}
+/*MATT PURPLE*/
+.b-matt-purple{background-color: #8c7ae6;}
+/*NANOHANACHA GOLD*/
+.b-nanohanacha-gold{background-color: #e1b12c;}
+/*SKIRRET GREEN*/
+.b-skirret-green{background-color: #44bd32;}
+/*NAVAL*/
+.b-naval{background-color: #40739e;}
+/*NASTURCIAN FLOWER*/
+.b-nasturcian-flower{background-color: #e84118;}
+/*LYNX WHITE*/
+.b-lynx-white{background-color: #f5f6fa;}
+/*BLUEBERRY SODA*/
+.b-blueberry-soda{background-color: #7f8fa6;}
+/*MAZARINE BLUE*/
+.b-mazarine-blue{background-color: #273c75;}
+/*BLUE NIGHTS*/
+.b-blue-nights{background-color: #353b48;}
+/*HARLEY DAVIDSON ORANGE*/
+.b-harley-davidson-orange{background-color: #c23616;}
+/*HINT OF PENSIVE*/
+.b-hint-of-pensive{background-color: #dcdde1;}
+/*CHAIN GANG GREY*/
+.b-chain-gang-grey{background-color: #718093;}
+/*PICO VOID*/
+.b-pico-void{background-color: #192a56;}
+/*ELECTROMAGNETIC*/
+.b-electromagnetic{background-color: #2f3640;}
+
+
+/*WITH IMPORTANT*/
+
+/*PROTOSS PYLON*/
+.b-protoss-pylon--i{background-color: #00a8ff !important;}
+/*PERIWINKLE*/
+.b-periwinkle--i{background-color: #9c88ff !important;}
+/*RISE N SHINE*/
+.b-rise-n-shine--i{background-color: #fbc531 !important;}
+/*DOWNLOAD PROGRESS*/
+.b-download-progress--i{background-color: #4cd137 !important;}
+/*SEABROOK*/
+.b-seabrook--i{background-color: #487eb0 !important;}
+/*VANADYL BLUE*/
+.b-vanadyl-blue--i{background-color: #0097e6 !important;}
+/*MATT PURPLE*/
+.b-matt-purple--i{background-color: #8c7ae6 !important;}
+/*NANOHANACHA GOLD*/
+.b-nanohanacha-gold--i{background-color: #e1b12c !important;}
+/*SKIRRET GREEN*/
+.b-skirret-green--i{background-color: #44bd32 !important;}
+/*NAVAL*/
+.b-naval--i{background-color: #40739e !important;}
+/*NASTURCIAN FLOWER*/
+.b-nasturcian-flower--i{background-color: #e84118 !important;}
+/*LYNX WHITE*/
+.b-lynx-white--i{background-color: #f5f6fa !important;}
+/*BLUEBERRY SODA*/
+.b-blueberry-soda--i{background-color: #7f8fa6 !important;}
+/*MAZARINE BLUE*/
+.b-mazarine-blue--i{background-color: #273c75 !important;}
+/*BLUE NIGHTS*/
+.b-blue-nights--i{background-color: #353b48 !important;}
+/*HARLEY DAVIDSON ORANGE*/
+.b-harley-davidson-orange--i{background-color: #c23616 !important;}
+/*HINT OF PENSIVE*/
+.b-hint-of-pensive--i{background-color: #dcdde1 !important;}
+/*CHAIN GANG GREY*/
+.b-chain-gang-grey--i{background-color: #718093 !important;}
+/*PICO VOID*/
+.b-pico-void--i{background-color: #192a56 !important;}
+/*ELECTROMAGNETIC*/
+.b-electromagnetic--i{background-color: #2f3640 !important;}
+
+/* END BRITISH PALETTE - BACKGROUND */
+
+
+/* START BRITISH PALETTE - TEXT COLOR */
+
+/*WITHOUT IMPORTANT*/
+
+/*PROTOSS PYLON*/
+.t-protoss-pylon{color: #00a8ff;}
+/*PERIWINKLE*/
+.t-periwinkle{color: #9c88ff;}
+/*RISE N SHINE*/
+.t-rise-n-shine{color: #fbc531;}
+/*DOWNLOAD PROGRESS*/
+.t-download-progress{color: #4cd137;}
+/*SEABROOK*/
+.t-seabrook{color: #487eb0;}
+/*VANADYL BLUE*/
+.t-vanadyl-blue{color: #0097e6;}
+/*MATT PURPLE*/
+.t-matt-purple{color: #8c7ae6;}
+/*NANOHANACHA GOLD*/
+.t-nanohanacha-gold{color: #e1b12c;}
+/*SKIRRET GREEN*/
+.t-skirret-green{color: #44bd32;}
+/*NAVAL*/
+.t-naval{color: #40739e;}
+/*NASTURCIAN FLOWER*/
+.t-nasturcian-flower{color: #e84118;}
+/*LYNX WHITE*/
+.t-lynx-white{color: #f5f6fa;}
+/*BLUEBERRY SODA*/
+.t-blueberry-soda{color: #7f8fa6;}
+/*MAZARINE BLUE*/
+.t-mazarine-blue{color: #273c75;}
+/*BLUE NIGHTS*/
+.t-blue-nights{color: #353b48;}
+/*HARLEY DAVIDSON ORANGE*/
+.t-harley-davidson-orange{color: #c23616;}
+/*HINT OF PENSIVE*/
+.t-hint-of-pensive{color: #dcdde1;}
+/*CHAIN GANG GREY*/
+.t-chain-gang-grey{color: #718093;}
+/*PICO VOID*/
+.t-pico-void{color: #192a56;}
+/*ELECTROMAGNETIC*/
+.t-electromagnetic{color: #2f3640;}
+
+
+/*WITH IMPORTANT*/
+
+/*PROTOSS PYLON*/
+.t-protoss-pylon--i{color: #00a8ff !important;}
+/*PERIWINKLE*/
+.t-periwinkle--i{color: #9c88ff !important;}
+/*RISE N SHINE*/
+.t-rise-n-shine--i{color: #fbc531 !important;}
+/*DOWNLOAD PROGRESS*/
+.t-download-progress--i{color: #4cd137 !important;}
+/*SEABROOK*/
+.t-seabrook--i{color: #487eb0 !important;}
+/*VANADYL BLUE*/
+.t-vanadyl-blue--i{color: #0097e6 !important;}
+/*MATT PURPLE*/
+.t-matt-purple--i{color: #8c7ae6 !important;}
+/*NANOHANACHA GOLD*/
+.t-nanohanacha-gold--i{color: #e1b12c !important;}
+/*SKIRRET GREEN*/
+.t-skirret-green--i{color: #44bd32 !important;}
+/*NAVAL*/
+.t-naval--i{color: #40739e !important;}
+/*NASTURCIAN FLOWER*/
+.t-nasturcian-flower--i{color: #e84118 !important;}
+/*LYNX WHITE*/
+.t-lynx-white--i{color: #f5f6fa !important;}
+/*BLUEBERRY SODA*/
+.t-blueberry-soda--i{color: #7f8fa6 !important;}
+/*MAZARINE BLUE*/
+.t-mazarine-blue--i{color: #273c75 !important;}
+/*BLUE NIGHTS*/
+.t-blue-nights--i{color: #353b48 !important;}
+/*HARLEY DAVIDSON ORANGE*/
+.t-harley-davidson-orange--i{color: #c23616 !important;}
+/*HINT OF PENSIVE*/
+.t-hint-of-pensive--i{color: #dcdde1 !important;}
+/*CHAIN GANG GREY*/
+.t-chain-gang-grey--i{color: #718093 !important;}
+/*PICO VOID*/
+.t-pico-void--i{color: #192a56 !important;}
+/*ELECTROMAGNETIC*/
+.t-electromagnetic--i{color: #2f3640 !important;}
+
+/* END BRITISH PALETTE - TEXT COLOR */
+
+/* START CANADIAN PALETTE - BACKGROUND COLOR */
+
+/*WITHOUT IMPORTANT*/
+
+/*JIGGLYPUFF*/
+.b-jigglypuff{background-color: #ff9ff3;}
+/*CASANDORA YELLOW*/
+.b-casandora-yellow{background-color: #feca57;}
+/*PASTEL RED*/
+.b-pastel-red{background-color: #ff6b6b;}
+/*MEGAMAN*/
+.b-megaman{background-color: #48dbfb;}
+/*WILD CARIBBEAN GREEN*/
+.b-wild-caribbean-green{background-color: #1dd1a1;}
+/*LIAN HONG LOTUS PINK*/
+.b-lian-hong-lotus-pink{background-color: #f368e0;}
+/*DOUBLE DRAGON SKIN*/
+.b-double-dragon-skin{background-color: #ff9f43;}
+/*AMOUR*/
+.b-amour{background-color: #ee5253;}
+/*CYANITE*/
+.b-cyanite{background-color: #0abde3;}
+/*DARK MOUNTAIN MEADOW*/
+.b-dark-mountain-meadow{background-color: #10ac84;}
+/*JADE DUST*/
+.b-jade-dust{background-color: #00d2d3;}
+/*JOUST BLUE*/
+.b-joust-blue{background-color: #54a0ff;}
+/*NASU PURPLE*/
+.b-nasu-purple{background-color: #5f27cd;}
+/*LIGHT BLUE BALLERINA*/
+.b-light-blue-ballerina{background-color: #c8d6e5;}
+/*FUEL TOWN*/
+.b-fuel-town{background-color: #576574;}
+/*AQUA VELVET*/
+.b-aqua-velvet{background-color: #01a3a4;}
+/*BLEU DE FRANCE*/
+.b-bleu-de-france{background-color: #2e86de;}
+/*BLUEBELL*/
+.b-bluebell{background-color: #341f97;}
+/*STORM PETREL*/
+.b-storm-petrel{background-color: #8395a7;}
+/*IMPERIAL PRIMER*/
+.b-imperial-primer{background-color: #222f3e;}
+
+
+/*WITH IMPORTANT*/
+
+/*JIGGLYPUFF*/
+.b-jigglypuff--i{background-color: #ff9ff3 !important;}
+/*CASANDORA YELLOW*/
+.b-casandora-yellow--i{background-color: #feca57 !important;}
+/*PASTEL RED*/
+.b-pastel-red--i{background-color: #ff6b6b !important;}
+/*MEGAMAN*/
+.b-megaman--i{background-color: #48dbfb !important;}
+/*WILD CARIBBEAN GREEN*/
+.b-wild-caribbean-green--i{background-color: #1dd1a1 !important;}
+/*LIAN HONG LOTUS PINK*/
+.b-lian-hong-lotus-pink--i{background-color: #f368e0 !important;}
+/*DOUBLE DRAGON SKIN*/
+.b-double-dragon-skin--i{background-color: #ff9f43 !important;}
+/*AMOUR*/
+.b-amour--i{background-color: #ee5253 !important;}
+/*CYANITE*/
+.b-cyanite--i{background-color: #0abde3 !important;}
+/*DARK MOUNTAIN MEADOW*/
+.b-dark-mountain-meadow--i{background-color: #10ac84 !important;}
+/*JADE DUST*/
+.b-jade-dust--i{background-color: #00d2d3 !important;}
+/*JOUST BLUE*/
+.b-joust-blue--i{background-color: #54a0ff !important;}
+/*NASU PURPLE*/
+.b-nasu-purple--i{background-color: #5f27cd !important;}
+/*LIGHT BLUE BALLERINA*/
+.b-light-blue-ballerina--i{background-color: #c8d6e5 !important;}
+/*FUEL TOWN*/
+.b-fuel-town--i{background-color: #576574 !important;}
+/*AQUA VELVET*/
+.b-aqua-velvet--i{background-color: #01a3a4 !important;}
+/*BLEU DE FRANCE*/
+.b-bleu-de-france--i{background-color: #2e86de !important;}
+/*BLUEBELL*/
+.b-bluebell--i{background-color: #341f97 !important;}
+/*STORM PETREL*/
+.b-storm-petrel--i{background-color: #8395a7 !important;}
+/*IMPERIAL PRIMER*/
+.b-imperial-primer--i{background-color: #222f3e !important;}
+
+/* END CANADIAN PALETTE - BACKGROUND */
+
+
+/* START CANADIAN PALETTE - TEXT COLOR */
+
+/*WITHOUT IMPORTANT*/
+
+/*JIGGLYPUFF*/
+.t-jigglypuff{color: #ff9ff3;}
+/*CASANDORA YELLOW*/
+.t-casandora-yellow{color: #feca57;}
+/*PASTEL RED*/
+.t-pastel-red{color: #ff6b6b;}
+/*MEGAMAN*/
+.t-megaman{color: #48dbfb;}
+/*WILD CARIBBEAN GREEN*/
+.t-wild-caribbean-green{color: #1dd1a1;}
+/*LIAN HONG LOTUS PINK*/
+.t-lian-hong-lotus-pink{color: #f368e0;}
+/*DOUBLE DRAGON SKIN*/
+.t-double-dragon-skin{color: #ff9f43;}
+/*AMOUR*/
+.t-amour{color: #ee5253;}
+/*CYANITE*/
+.t-cyanite{color: #0abde3;}
+/*DARK MOUNTAIN MEADOW*/
+.t-dark-mountain-meadow{color: #10ac84;}
+/*JADE DUST*/
+.t-jade-dust{color: #00d2d3;}
+/*JOUST BLUE*/
+.t-joust-blue{color: #54a0ff;}
+/*NASU PURPLE*/
+.t-nasu-purple{color: #5f27cd;}
+/*LIGHT BLUE BALLERINA*/
+.t-light-blue-ballerina{color: #c8d6e5;}
+/*FUEL TOWN*/
+.t-fuel-town{color: #576574;}
+/*AQUA VELVET*/
+.t-aqua-velvet{color: #01a3a4;}
+/*BLEU DE FRANCE*/
+.t-bleu-de-france{color: #2e86de;}
+/*BLUEBELL*/
+.t-bluebell{color: #341f97;}
+/*STORM PETREL*/
+.t-storm-petrel{color: #8395a7;}
+/*IMPERIAL PRIMER*/
+.t-imperial-primer{color: #222f3e;}
+
+
+/*WITH IMPORTANT*/
+
+/*JIGGLYPUFF*/
+.t-jigglypuff--i{color: #ff9ff3 !important;}
+/*CASANDORA YELLOW*/
+.t-casandora-yellow--i{color: #feca57 !important;}
+/*PASTEL RED*/
+.t-pastel-red--i{color: #ff6b6b !important;}
+/*MEGAMAN*/
+.t-megaman--i{color: #48dbfb !important;}
+/*WILD CARIBBEAN GREEN*/
+.t-wild-caribbean-green--i{color: #1dd1a1 !important;}
+/*LIAN HONG LOTUS PINK*/
+.t-lian-hong-lotus-pink--i{color: #f368e0 !important;}
+/*DOUBLE DRAGON SKIN*/
+.t-double-dragon-skin--i{color: #ff9f43 !important;}
+/*AMOUR*/
+.t-amour--i{color: #ee5253 !important;}
+/*CYANITE*/
+.t-cyanite--i{color: #0abde3 !important;}
+/*DARK MOUNTAIN MEADOW*/
+.t-dark-mountain-meadow--i{color: #10ac84 !important;}
+/*JADE DUST*/
+.t-jade-dust--i{color: #00d2d3 !important;}
+/*JOUST BLUE*/
+.t-joust-blue--i{color: #54a0ff !important;}
+/*NASU PURPLE*/
+.t-nasu-purple--i{color: #5f27cd !important;}
+/*LIGHT BLUE BALLERINA*/
+.t-light-blue-ballerina--i{color: #c8d6e5 !important;}
+/*FUEL TOWN*/
+.t-fuel-town--i{color: #576574 !important;}
+/*AQUA VELVET*/
+.t-aqua-velvet--i{color: #01a3a4 !important;}
+/*BLEU DE FRANCE*/
+.t-bleu-de-france--i{color: #2e86de !important;}
+/*BLUEBELL*/
+.t-bluebell--i{color: #341f97 !important;}
+/*STORM PETREL*/
+.t-storm-petrel--i{color: #8395a7 !important;}
+/*IMPERIAL PRIMER*/
+.t-imperial-primer--i{color: #222f3e !important;}
+
+/* END CANADIAN PALETTE - TEXT COLOR */
+
+/*START CHINESE PALETTE - BACKGROUND*/
+
+/*WITHOUT IMPORTANT*/
+
+/*GOLDEN SAND*/
+.b-golden-sand{background-color: #eccc68;}
+/*CORAL*/
+.b-coral{background-color: #ff7f50;}
+/*WILD WATERMELON*/
+.b-wild-watermelon{background-color: #ff6b81;}
+/*PEACE*/
+.b-peace{background-color: #a4b0be;}
+/*GRISAILLE*/
+.b-grisaille{background-color: #57606f;}
+/*ORANGE*/
+.b-orange{background-color: #ffa502;}
+/*BRUSCHETTA TOMATO*/
+.b-bruschetta-tomato{background-color: #ff6348;}
+/*WATERMELON*/
+.b-watermelon{background-color: #ff4757;}
+/*BAY WHARF*/
+.b-bay-wharf{background-color: #747d8c;}
+/*PRESTIGE BLUE*/
+.b-prestige-blue{background-color: #2f3542;}
+/*LIME SOAP*/
+.b-lime-soap{background-color: #7bed9f;}
+/*FRENCH SKY BLUE*/
+.b-french-sky-blue{background-color: #70a1ff;}
+/*SATURATED SKY*/
+.b-saturated-sky{background-color: #5352ed;}
+/*WHITE*/
+.b-white{background-color: #ffffff;}
+/*CITY LIGHTS*/
+.b-city-lights{background-color: #dfe4ea;}
+/*UFO GREEN*/
+.b-ufo-green{background-color: #2ed573;}
+/*CLEAR CHILL*/
+.b-clear-chill{background-color: #1e90ff;}
+/*ANTI-FLASH WHITE*/
+.b-anti-flash-white{background-color: #f1f2f6;}
+/*TWINKLE BLUE*/
+.b-twinkle-blue{background-color: #ced6e0;}
+
+
+/*WITH IMPORTANT*/
+
+/*GOLDEN SAND*/
+.b-golden-sand--i{background-color: #eccc68 !important;}
+/*CORAL*/
+.b-coral--i{background-color: #ff7f50 !important;}
+/*WILD WATERMELON*/
+.b-wild-watermelon--i{background-color: #ff6b81 !important;}
+/*PEACE*/
+.b-peace--i{background-color: #a4b0be !important;}
+/*GRISAILLE*/
+.b-grisaille--i{background-color: #57606f !important;}
+/*ORANGE*/
+.b-orange--i{background-color: #ffa502 !important;}
+/*BRUSCHETTA TOMATO*/
+.b-bruschetta-tomato--i{background-color: #ff6348 !important;}
+/*WATERMELON*/
+.b-watermelon--i{background-color: #ff4757 !important;}
+/*BAY WHARF*/
+.b-bay-wharf--i{background-color: #747d8c !important;}
+/*PRESTIGE BLUE*/
+.b-prestige-blue--i{background-color: #2f3542 !important;}
+/*LIME SOAP*/
+.b-lime-soap--i{background-color: #7bed9f !important;}
+/*FRENCH SKY BLUE*/
+.b-french-sky-blue--i{background-color: #70a1ff !important;}
+/*SATURATED SKY*/
+.b-saturated-sky--i{background-color: #5352ed !important;}
+/*WHITE*/
+.b-white--i{background-color: #ffffff !important;}
+/*CITY LIGHTS*/
+.b-city-lights--i{background-color: #dfe4ea !important;}
+/*UFO GREEN*/
+.b-ufo-green--i{background-color: #2ed573 !important;}
+/*CLEAR CHILL*/
+.b-clear-chill--i{background-color: #1e90ff !important;}
+/*ANTI-FLASH WHITE*/
+.b-anti-flash-white--i{background-color: #f1f2f6 !important;}
+/*TWINKLE BLUE*/
+.b-twinkle-blue--i{background-color: #ced6e0 !important;}
+
+/*END CHINESE PALETTE - BACKGROUND*/
+
+
+/*START CHINESE PALETTE - TEXT COLOR*/
+
+/*WITHOUT IMPORTANT*/
+
+/*GOLDEN SAND*/
+.t-golden-sand{color: #eccc68;}
+/*CORAL*/
+.t-coral{color: #ff7f50;}
+/*WILD WATERMELON*/
+.t-wild-watermelon{color: #ff6b81;}
+/*PEACE*/
+.t-peace{color: #a4b0be;}
+/*GRISAILLE*/
+.t-grisaille{color: #57606f;}
+/*ORANGE*/
+.t-orange{color: #ffa502;}
+/*BRUSCHETTA TOMATO*/
+.t-bruschetta-tomato{color: #ff6348;}
+/*WATERMELON*/
+.t-watermelon{color: #ff4757;}
+/*BAY WHARF*/
+.t-bay-wharf{color: #747d8c;}
+/*PRESTIGE BLUE*/
+.t-prestige-blue{color: #2f3542;}
+/*LIME SOAP*/
+.t-lime-soap{color: #7bed9f;}
+/*FRENCH SKY BLUE*/
+.t-french-sky-blue{color: #70a1ff;}
+/*SATURATED SKY*/
+.t-saturated-sky{color: #5352ed;}
+/*WHITE*/
+.t-white{color: #ffffff;}
+/*CITY LIGHTS*/
+.t-city-lights{color: #dfe4ea;}
+/*UFO GREEN*/
+.t-ufo-green{color: #2ed573;}
+/*CLEAR CHILL*/
+.t-clear-chill{color: #1e90ff;}
+/*ANTI-FLASH WHITE*/
+.t-anti-flash-white{color: #f1f2f6;}
+/*TWINKLE BLUE*/
+.t-twinkle-blue{color: #ced6e0;}
+
+/*WITH IMPORTANT*/
+
+/*GOLDEN SAND*/
+.t-golden-sand--i{color: #eccc68 !important;}
+/*CORAL*/
+.t-coral--i{color: #ff7f50 !important;}
+/*WILD WATERMELON*/
+.t-wild-watermelon--i{color: #ff6b81 !important;}
+/*PEACE*/
+.t-peace--i{color: #a4b0be !important;}
+/*GRISAILLE*/
+.t-grisaille--i{color: #57606f !important;}
+/*ORANGE*/
+.t-orange--i{color: #ffa502 !important;}
+/*BRUSCHETTA TOMATO*/
+.t-bruschetta-tomato--i{color: #ff6348 !important;}
+/*WATERMELON*/
+.t-watermelon--i{color: #ff4757 !important;}
+/*BAY WHARF*/
+.t-bay-wharf--i{color: #747d8c !important;}
+/*PRESTIGE BLUE*/
+.t-prestige-blue--i{color: #2f3542 !important;}
+/*LIME SOAP*/
+.t-lime-soap--i{color: #7bed9f !important;}
+/*FRENCH SKY BLUE*/
+.t-french-sky-blue--i{color: #70a1ff !important;}
+/*SATURATED SKY*/
+.t-saturated-sky--i{color: #5352ed !important;}
+/*WHITE*/
+.t-white--i{color: #ffffff !important;}
+/*CITY LIGHTS*/
+.t-city-lights--i{color: #dfe4ea !important;}
+/*UFO GREEN*/
+.t-ufo-green--i{color: #2ed573 !important;}
+/*CLEAR CHILL*/
+.t-clear-chill--i{color: #1e90ff !important;}
+/*ANTI-FLASH WHITE*/
+.t-anti-flash-white--i{color: #f1f2f6 !important;}
+/*TWINKLE BLUE*/
+.t-twinkle-blue--i{color: #ced6e0 !important;}
+
+/*END CHINESE PALETTE - TEXT COLOR*/
+
+
+
+/* START DUTCH PALETTE - BACKGROUND COLOR */
+
+/*WITHOUT IMPORTANT*/
+
+/*SUNFLOWER*/
+.b-sunflower{background-color: #FFC312;}
+/*ENERGOS*/
+.b-energos{background-color: #C4E538;}
+/*BLUE MARTINA*/
+.b-blue-martina{background-color: #12CBC4;}
+/*LAVENDER ROSE*/
+.b-lavender-rose-{background-color: #FDA7DF;}
+/*BARA RED*/
+.b-bara-red{background-color: #ED4C67;}
+/*RADIANT YELLOW*/
+.b-radiant-yellow{background-color: #F79F1F;}
+/*ANDROID GREEN*/
+.b-android-green{background-color: #A3CB38;}
+/*MEDITERRANEAN SEA*/
+.b-mediterranean-sea{background-color: #1289A7;}
+/*LAVENDER TEA*/
+.b-lavender-tea{background-color: #D980FA;}
+/*VERY BERRY*/
+.b-very-berry{background-color: #B53471;}
+/*PUFFINS BILL*/
+.b-puffins-bill{background-color: #EE5A24;}
+/*PIXELATED GRASS*/
+.b-pixelated-grass{background-color: #009432;}
+/*MERCHANT MARINE BLUE*/
+.b-merchant-marine-blue{background-color: #0652DD;}
+/*FORGOTTEN PURPLE*/
+.b-forgotten-purple{background-color: #9980FA;}
+/*HOLLYHOCK*/
+.b-hollyhock{background-color: #833471;}
+/*RED PIGMENT*/
+.b-red-pigment{background-color: #EA2027;}
+/*TURKISH AQUA*/
+.b-turkish-aqua{background-color: #006266;}
+/*20000 LEAGUES UNDER THE SEA*/
+.b-twenty-thousand-leagues-under-the-sea{background-color: #1B1464;}
+/*CIRCUMORBITAL RING*/
+.b-circumorbital-ring{background-color: #5758BB;}
+/*MAGENTA PURPLE*/
+.b-magenta-purple{background-color: #6F1E51;}
+
+
+/*WITH IMPORTANT*/
+
+/*SUNFLOWER*/
+.b-sunflower--i{background-color: #FFC312 !important;}
+/*ENERGOS*/
+.b-energos--i{background-color: #C4E538 !important;}
+/*BLUE MARTINA*/
+.b-blue-martina--i{background-color: #12CBC4 !important;}
+/*LAVENDER ROSE*/
+.b-lavender-rose--i{background-color: #FDA7DF !important;}
+/*BARA RED*/
+.b-bara-red--i{background-color: #ED4C67 !important;}
+/*RADIANT YELLOW*/
+.b-radiant-yellow--i{background-color: #F79F1F !important;}
+/*ANDROID GREEN*/
+.b-android-green--i{background-color: #A3CB38 !important;}
+/*MEDITERRANEAN SEA*/
+.b-mediterranean-sea--i{background-color: #1289A7 !important;}
+/*LAVENDER TEA*/
+.b-lavender-tea--i{background-color: #D980FA !important;}
+/*VERY BERRY*/
+.b-very-berry--i{background-color: #B53471 !important;}
+/*PUFFINS BILL*/
+.b-puffins-bill--i{background-color: #EE5A24 !important;}
+/*PIXELATED GRASS*/
+.b-pixelated-grass--i{background-color: #009432 !important;}
+/*MERCHANT MARINE BLUE*/
+.b-merchant-marine-blue--i{background-color: #0652DD !important;}
+/*FORGOTTEN PURPLE*/
+.b-forgotten-purple--i{background-color: #9980FA !important;}
+/*HOLLYHOCK*/
+.b-hollyhock--i{background-color: #833471 !important;}
+/*RED PIGMENT*/
+.b-red-pigment--i{background-color: #EA2027 !important;}
+/*TURKISH AQUA*/
+.b-turkish-aqua--i{background-color: #006266 !important;}
+/*20000 LEAGUES UNDER THE SEA*/
+.b-twenty-thousand-leagues-under-the-sea--i{background-color: #1B1464 !important;}
+/*CIRCUMORBITAL RING*/
+.b-circumorbital-ring--i{background-color: #5758BB !important;}
+/*MAGENTA PURPLE*/
+.b-magenta-purple--i{background-color: #6F1E51 !important;}
+
+/* END DUTCH PALETTE - BACKGROUND */
+
+/* START DUTCH PALETTE - TEXT COLOR */
+
+/*WITHOUT IMPORTANT*/
+
+/*SUNFLOWER*/
+.t-sunflower{color: #FFC312;}
+/*ENERGOS*/
+.t-energos{color: #C4E538;}
+/*BLUE MARTINA*/
+.t-blue-martina{color: #12CBC4;}
+/*LAVENDER ROSE*/
+.t-lavender-rose-{color: #FDA7DF;}
+/*BARA RED*/
+.t-bara-red{color: #ED4C67;}
+/*RADIANT YELLOW*/
+.t-radiant-yellow{color: #F79F1F;}
+/*ANDROID GREEN*/
+.t-android-green{color: #A3CB38;}
+/*MEDITERRANEAN SEA*/
+.t-mediterranean-sea{color: #1289A7;}
+/*LAVENDER TEA*/
+.t-lavender-tea{color: #D980FA;}
+/*VERY BERRY*/
+.t-very-berry{color: #B53471;}
+/*PUFFINS BILL*/
+.t-puffins-bill{color: #EE5A24;}
+/*PIXELATED GRASS*/
+.t-pixelated-grass{color: #009432;}
+/*MERCHANT MARINE BLUE*/
+.t-merchant-marine-blue{color: #0652DD;}
+/*FORGOTTEN PURPLE*/
+.t-forgotten-purple{color: #9980FA;}
+/*HOLLYHOCK*/
+.t-hollyhock{color: #833471;}
+/*RED PIGMENT*/
+.t-red-pigment{color: #EA2027;}
+/*TURKISH AQUA*/
+.t-turkish-aqua{color: #006266;}
+/*20000 LEAGUES UNDER THE SEA*/
+.t-twenty-thousand-leagues-under-the-sea{color: #1B1464;}
+/*CIRCUMORBITAL RING*/
+.t-circumorbital-ring{color: #5758BB;}
+/*MAGENTA PURPLE*/
+.t-magenta-purple{color: #6F1E51;}
+
+
+/*WITH IMPORTANT*/
+
+/*SUNFLOWER*/
+.t-sunflower--i{color: #FFC312 !important;}
+/*ENERGOS*/
+.t-energos--i{color: #C4E538 !important;}
+/*BLUE MARTINA*/
+.t-blue-martina--i{color: #12CBC4 !important;}
+/*LAVENDER ROSE*/
+.tlavender-rose--i{color: #FDA7DF !important;}
+/*BARA RED*/
+.t-bara-red--i{color: #ED4C67 !important;}
+/*RADIANT YELLOW*/
+.t-radiant-yellow--i{color: #F79F1F !important;}
+/*ANDROID GREEN*/
+.t-android-green--i{color: #A3CB38 !important;}
+/*MEDITERRANEAN SEA*/
+.t-mediterranean-sea--i{color: #1289A7 !important;}
+/*LAVENDER TEA*/
+.t-lavender-tea--i{color: #D980FA !important;}
+/*VERY BERRY*/
+.t-very-berry--i{color: #B53471 !important;}
+/*PUFFINS BILL*/
+.t-puffins-bill--i{color: #EE5A24 !important;}
+/*PIXELATED GRASS*/
+.t-pixelated-grass--i{color: #009432 !important;}
+/*MERCHANT MARINE BLUE*/
+.t-merchant-marine-blue--i{color: #0652DD !important;}
+/*FORGOTTEN PURPLE*/
+.t-forgotten-purple--i{color: #9980FA !important;}
+/*HOLLYHOCK*/
+.t-hollyhock--i{color: #833471 !important;}
+/*RED PIGMENT*/
+.t-red-pigment--i{color: #EA2027 !important;}
+/*TURKISH AQUA*/
+.t-turkish-aqua--i{color: #006266 !important;}
+/*20000 LEAGUES UNDER THE SEA*/
+.t-twenty-thousand-leagues-under-the-sea--i{color: #1B1464 !important;}
+/*CIRCUMORBITAL RING*/
+.t-circumorbital-ring--i{color: #5758BB !important;}
+/*MAGENTA PURPLE*/
+.t-magenta-purple--i{color: #6F1E51 !important;}
+
+/* END DUTCH PALETTE - TEXT COLOR */
+
+/* START FRENCH PALETTE - BACKGROUND COLOR */
+
+/*WITHOUT IMPORTANT*/
+
+/*FAT FLESH*/
+.b-{background-color: #00a8ff;}
+/**/
+.b-{background-color: #9c88ff;}
+/**/
+.b-{background-color: #fbc531;}
+/**/
+.b-{background-color: #4cd137;}
+/**/
+.b-{background-color: #487eb0;}
+/**/
+.b-{background-color: #0097e6;}
+/**/
+.b-{background-color: #8c7ae6;}
+/**/
+.b-{background-color: #e1b12c;}
+/**/
+.b-{background-color: #44bd32;}
+/**/
+.b-{background-color: #40739e;}
+/**/
+.b-{background-color: #e84118;}
+/**/
+.b-{background-color: #f5f6fa;}
+/**/
+.b-{background-color: #7f8fa6;}
+/**/
+.b-{background-color: #273c75;}
+/**/
+.b-{background-color: #353b48;}
+/**/
+.b-{background-color: #c23616;}
+/**/
+.b-{background-color: #dcdde1;}
+/**/
+.b-{background-color: #718093;}
+/**/
+.b-{background-color: #192a56;}
+/**/
+.b-{background-color: #2f3640;}
+
+
+/*WITH IMPORTANT*/
+
+
+
+/* END FRENCH PALETTE - BACKGROUND COLOR */
