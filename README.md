@@ -16,6 +16,9 @@ CSS PALETTE COLOR COLLECTION
 ////////////////////////////////////////////////////
                 
                 (INSTRUCTIONS)
+                
+INSERT A flat.css FILE IN YOUR PAGE HTML OR PHP, INTO SECTION HEAD
+
 +USE FOR BACKGROUND COLOR :  
 
       WITHOUT IMPORTANT 
