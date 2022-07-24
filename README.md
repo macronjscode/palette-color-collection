@@ -11,6 +11,8 @@ CSS PALETTE COLOR COLLECTION
 
 +DESCRIPTION : PALETTE COLOR COLLECTION
 
++CREDIT : https://flatuicolors.com/
+
 ////////////////////////////////////////////////////
                 
                 (INSTRUCTIONS)
